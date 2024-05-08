@@ -6,3 +6,4 @@ This repository is built step by step in the tutorial.
 Now uploaded to GIT Hub
 USING PULL TO UPDATE LOCAL REPOSITORY
 Hurray
+Now I am pushing to git hub (remotr repository) from my local git
